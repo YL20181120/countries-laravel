@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/countries-laravel",
+    "name": "jasmine/countries-laravel",
 
     "description": "Countries for Laravel",
 
@@ -31,8 +31,7 @@
         "php": ">=7.0",
         "laravel/framework": ">=5.3",
         "psr/simple-cache": "^3.0",
-        "pragmarx/coollection": ">=0.6",
-        "pragmarx/countries": ">=0.5.8"
+        "pragmarx/coollection": ">=0.6"
     },
 
     "require-dev": {
